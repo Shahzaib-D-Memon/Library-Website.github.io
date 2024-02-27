@@ -270,6 +270,7 @@ footer ul li {
     border-radius: 40px;
   }
 }
+
 @media screen and (max-width: 576px) {
   .header ul li {
     padding: 5px;
